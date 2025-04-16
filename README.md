@@ -5,4 +5,6 @@ Small exploratory project to see if remote branch creation date can be inferred 
 ## First we are creating a new branch
 
 Branch name: new_branch
-Creation date: 
+Creation date: We will change this in the following commit
+
+Retrieved info from gharchive:
